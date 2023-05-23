@@ -30,12 +30,12 @@
     border: 2px solid white;
 }
 .rules2 h2{
-    padding-left: 20px;
+    padding-left: 1.25rem;
     font-family: 'Orbitron';
     font-style: normal;
     font-weight: 900;
-    font-size: 60px;
-    line-height: 100px;
+    font-size: 3.75rem;
+    line-height: 6.25rem;
     color: white;
 }
 .rules2 i{
@@ -43,18 +43,18 @@
     color: white;
     left: 70%;
     margin-top: -20%;
-    font-size: 45px;
+    font-size: 2.8125rem;
     font-weight: 200;
     
 }
 .rules2 h3{
-    padding-top: 10px;
-    padding-left: 30px;
+    padding-top: 0.625rem;
+    padding-left: 1.875rem;
     font-family: 'Orbitron';
     font-style: normal;
     font-weight: 900;
-    font-size: 25px;
-    line-height: 60px;
+    font-size: 1.5625rem;
+    line-height: 3.75rem;
     color: #FFFFFF;
 }
 .rules2 hr{
@@ -80,13 +80,13 @@
     border: 2px solid white;
 }
 .faq2 h2{
-    padding-left: 20px;
+    padding-left: 1.25rem;
     font-family: 'Orbitron';
     font-style: normal;
     font-weight: 900;
-    font-size: 60px;
-    line-height: 100px;
-    color: #FFFFFF;
+    font-size: 3.75rem;
+    line-height: 6.25rem;
+    color: white;
     
 }
 .faq2 i{
@@ -94,18 +94,18 @@
     color: white;
     left: 60%;
     margin-top: -20%;
-    font-size: 45px;
+    font-size: 2.8125rem;
     font-weight: 200;
     
 }
 .faq2 h3{
-    padding-top: 10px;
-    padding-left: 30px;
+    padding-top: 0.625rem;
+    padding-left: 1.875rem;
     font-family: 'Orbitron';
     font-style: normal;
     font-weight: 900;
-    font-size: 25px;
-    line-height: 60px;
+    font-size: 1.5625rem;
+    line-height: 3.75rem;
     color: #FFFFFF;
 }
 .faq2 hr{
@@ -125,7 +125,7 @@
     font-family: 'Orbitron';
     font-style: normal;
     font-weight: 400;
-    font-size: 50px;
+    font-size: 3.125rem;
     color: #FFFFFF;
 }
 .email{
@@ -135,11 +135,11 @@
 }
 .email input{
     height: 3.125rem;
-    font-size: 20px;
+    font-size: 1.25rem;
     align-items: center;
     border: 1px solid white;
     border-right: 1px solid transparent;
-    border-radius: 30px;
+    border-radius: 1.875rem;
     outline: none;
     border-top-right-radius: 0;
     border-bottom-right-radius: 0;
@@ -150,13 +150,13 @@
     height: 3.125rem;
     background-color: white;
     color: black;
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: 700;
     cursor: pointer;
     margin-left: -2%;
     width: 10%;
     border: 1px solid transparent;
-    border-radius: 30px;
+    border-radius: 1.875rem;
 }
 .email button:hover{
     background-color: grey;
@@ -166,22 +166,22 @@
     font-family: 'Orbitron';
     font-style: normal;
     font-weight: 500;
-    font-size: 18px;
-    line-height: 33px;
-    padding: 20px;
+    font-size: 1.125rem;
+    line-height: 2.0625rem;
+    padding: 1.25rem;
     color: #FFFFFF;
 }
-#footer i {
+#footer i{
     color: white;
     cursor: pointer;
-    font-size: 30px;
+    font-size: 1.875rem;
 }
 .fa-map-marker-alt{
     position: absolute;
     left: 5.06%;
     right: 93.33%;
     top: 99.21%;
-    margin-top: 10px;
+    margin-top: 0.625rem;
 }
 .fa-envelope{
     position: absolute;
@@ -189,7 +189,7 @@
     right: 55.8%;
     top: 99.32%;
     bottom: 0.32%;
-    margin-top: 13px;
+    margin-top: 0.8125rem;
 }
 .fa-phone-alt{
     position: absolute;
@@ -197,18 +197,18 @@
     right: 19%;
     top: 99.32%;
     bottom: 0.32%;
-    margin-top: 13px;
+    margin-top: 0.8125rem;
 }
 .contact1 h3{
     position: absolute;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
-    font-size: 20px;
-    line-height: 26px;
+    font-size: 1.25rem;
+    line-height: 1.625rem;
     color: #FFFFFF;
     left: 8%;
-    top: 14px;
+    top: 0.875rem;
 }
 .contact2 h3{
     position: absolute;
@@ -218,9 +218,9 @@
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
-    font-size: 20px;
-    line-height: 26px;
-    top: 5px;
+    font-size: 1.25rem;
+    line-height: 1.625rem;
+    top: 0.3125rem;
     color: #FFFFFF;
 }
 .contact3 h3{
@@ -229,8 +229,8 @@
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
-    font-size: 18px;
-    top: 10px;
+    font-size: 1.125rem;
+    top: 0.625rem;
     color: #FFFFFF;
 }
 @media (min-width: 768px) {

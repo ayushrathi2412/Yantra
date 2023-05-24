@@ -238,8 +238,10 @@
     .rules2,
     .faq1,
     .faq2 {
-        width: 48%;
-        margin-bottom: 30px;
+        width: 50%;
+        #footer i{
+            margin-left: 5px;
+        }
     }
 
     /* Adjust other styles as needed */
@@ -252,7 +254,6 @@
     .faq1,
     .faq2 {
         width: 30%;
-        margin-bottom: 40px;
     }
 
     /* Adjust other styles as needed */

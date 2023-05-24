@@ -239,15 +239,15 @@
     .faq1,
     .faq2 {
         width: 70%;
-        #footer i{
-            margin-left: -10px;
-        }
     }
+    #footer i{
+        margin-left: -10px;
+}
     .email input{
-        width: 50%;
+        width: 350px;
     }
     .email button{
-        width: 30%;
+        width: 150px;
     }
 
     /* Adjust other styles as needed */

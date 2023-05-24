@@ -243,6 +243,12 @@
             margin-left: 10px;
         }
     }
+    .email input{
+        width: 40%;
+    }
+    .email button{
+        width: 20%;
+    }
 
     /* Adjust other styles as needed */
 }
